@@ -5,3 +5,7 @@ h1 {
 #picture{
  padding: 1px;
 }
+
+line{
+    stroke-width: 2;
+}
