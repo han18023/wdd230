@@ -6,7 +6,7 @@ h1 {
  padding: 1px;
 }
 
-line{
-    stroke: black;
-    stroke-width: 2;
+.under{
+    text-decoration-line: underline;
+    padding-top: 2px;
 }
