@@ -1,7 +1,4 @@
-h1 {
- background-color: green;
- max-width: 15px;
-}
+
 
 #picture{
  padding: 1px;
@@ -17,4 +14,6 @@ h1 {
     grid-template-columns: auto auto;
     grid-template-rows: 1;
     padding: 1px;
+    background-color: green;
+    width: 15px;
 }
