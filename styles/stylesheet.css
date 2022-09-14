@@ -1,6 +1,4 @@
 h1 {
-    display: grid;
-    grid-template-columns: auto auto;
  background-color: green;
 }
 
@@ -11,4 +9,10 @@ h1 {
 .under{
     text-decoration-line: underline;
     padding-top: 2px;
+}
+
+#griditem{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
 }
