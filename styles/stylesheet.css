@@ -1,6 +1,6 @@
 h1 {
  background-color: green;
- max-width: 10px;
+
 }
 
 #picture{
@@ -28,5 +28,4 @@ h1 {
 
 footer{
     background-color: green;
-    max-width: fit-content;
 }
