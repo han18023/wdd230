@@ -18,3 +18,15 @@ h1 {
     grid-template-rows: 1;
     padding: 1px;
 }
+
+#gridfooter{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 1;
+    padding: 2px;
+}
+
+footer{
+    background-color: green;
+    max-width: fit-content;
+}
