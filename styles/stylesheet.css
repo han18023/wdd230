@@ -18,3 +18,13 @@ h1 {
     padding: 1px;
 }
 
+#gridfooter{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 1;
+    padding: 2px;
+}
+
+footer{
+    background-color: green;
+}
