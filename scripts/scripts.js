@@ -1,0 +1,5 @@
+myfunc=Date.now
+
+if (!Date.now) {
+    Date.now = function() { return new Date().getTime(); }
+}
