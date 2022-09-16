@@ -28,3 +28,9 @@ h1 {
 footer{
     background-color: green;
 }
+
+#datetime{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 1;
+}
