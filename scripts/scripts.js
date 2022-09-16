@@ -1,5 +1,4 @@
-myfunc=Date.now
-
-if (!Date.now) {
-    Date.now = function() { return new Date().getTime(); }
+timestamp() {
+ var date = document.lastModified;
+    document.write("Last Modified: "+date);
 }
