@@ -1,0 +1,25 @@
+h1{
+    background-color: navy;
+    text-emphasis-color: white;
+}
+
+h3{
+    background-color: navy;
+    text-emphasis-color: white;
+}
+
+
+.block1{
+    grid-template-columns: auto;
+    background-color: gray;
+}
+
+.block2{
+    grid-template-columns: auto;
+    background-color: gray;
+}
+
+.block3{
+    grid-template-columns: auto;
+    background-color: gray;
+}
