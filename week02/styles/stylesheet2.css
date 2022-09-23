@@ -7,18 +7,8 @@ h3{
 }
 
 
-#block1{
+.block1{
     grid-template-columns: auto auto auto;
     grid-template-rows: 1;
-    background-color: gray;
-}
-
-.block2{
-    grid-template-columns: auto;
-    background-color: gray;
-}
-
-.block3{
-    grid-template-columns: auto;
     background-color: gray;
 }
