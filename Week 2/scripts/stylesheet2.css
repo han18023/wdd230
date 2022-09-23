@@ -9,7 +9,7 @@ h3{
 }
 
 
-.block1{
+#block1{
     grid-template-columns: auto auto auto;
     grid-template-rows: 1;
     background-color: gray;
